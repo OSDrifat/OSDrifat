@@ -69,5 +69,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OSDrifat&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
+<h3>📊 My Coding Stats (WakaTime)</h3>
+
+<!-- Replace 'your_username' with your actual WakaTime username -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OSDrifat&layout=compact&theme=radical&v=2" />
+</p>
 ---
 <p align="center">❤️ Thanks for visiting my profile! Have a nice day!</p>
