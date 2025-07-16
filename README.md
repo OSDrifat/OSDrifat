@@ -2,8 +2,11 @@
 <h3 align="center">🎓 CSE Student | 💻 Aspiring Web Developer | 🌍 Bangladesh</h3>
 <p align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F78E0&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+coding+💻;I+am+learning+Full+Stack+Development!" alt="Typing SVG" />
+<p align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F78E0&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;+I+love+coding+%F0%9F%92%BB;I+am+learning+Full+Stack+Development!" alt="Typing SVG" />
 </p>
+
 
 <h3>👨‍🎓 About Me</h3>
 
